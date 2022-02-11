@@ -1,1 +1,1 @@
-STAKING APP
+STAKING APP Kovan testnet
