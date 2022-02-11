@@ -1,5 +1,5 @@
 {
-  "contractName": "DappToken",
+  "contractName": "RewardToken",
   "abi": [
     {
       "inputs": [],
